@@ -3,7 +3,6 @@
 #### Links
 [Official Site](http://kunix.rf.gd)
 
-[Compiled](https://www.mediafire.com/file/6nrtu3evduibjwb/kuNIX+Compiled.rar/file)  -- You **MUST** use VMWare Player to emulate, this version has a virtual HDD.
 
 ------
 
