@@ -56,14 +56,12 @@ namespace kuNIX {
         } else {
           Console.WriteLine("[FAILED]   kuNIX not installed....");
           Console.WriteLine("[OK]       Installing.............");
-          Console.WriteLine("[installer:hostname] > ");
           Directory.CreateDirectory(@"0:\\kunix");
           File.Create(@"0:\\kunix\host.txt");
           File.Create(@"0:\\kunix\bash.txt");
           File.Create(@"0:\\home\help1.txt");
           File.Create(@"0:\\home\help2.txt");
           string hostname = "kuNIX";
-          hostname = Console.ReadLine();
           Console.WriteLine("\n");
           Console.WriteLine("[OK]       Writing host.txt.......");
           File.WriteAllText(@"0:\\kunix\host.txt", hostname);
