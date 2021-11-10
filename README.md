@@ -1,11 +1,9 @@
 # kuNIX
 
-## ATTENTION: THE CURRENT OFFICIAL COMPILED VERSION WON'T WORK AS THERE IS A BUG IN THE INSTALLATION PROCESS. THIS BUG HAS BEEN PATCHED IN `kernel.cs`. FEEL FREE TO RECOMPILE ON YOUR OWN.
-
 #### Links
 [Official Site](http://kunix.rf.gd)
 
-[Compiled](https://www.mediafire.com/file/8avthllro8wv80u/kuNIX.iso/file)
+[Compiled](https://www.mediafire.com/file/cy51uh8xyw1hndx/kuNIX.iso/file)
 
 ------
 
