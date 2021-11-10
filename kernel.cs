@@ -21,7 +21,7 @@ namespace kuNIX {
   public class Kernel: Sys.Kernel {
 
       string current_directory = (@"0:\\");
-      public static string ComputerName = "NULL";
+      public static string ComputerName = "kuNIX";
       public static float cpuUsage = 0;
 
       Canvas canvas;
@@ -62,7 +62,8 @@ namespace kuNIX {
           File.Create(@"0:\\kunix\bash.txt");
           File.Create(@"0:\\home\help1.txt");
           File.Create(@"0:\\home\help2.txt");
-          string hostname = Console.ReadLine();
+          string hostname = "kuNIX";
+          hostname = Console.ReadLine();
           Console.WriteLine("\n");
           Console.WriteLine("[OK]       Writing host.txt.......");
           File.WriteAllText(@"0:\\kunix\host.txt", hostname);
