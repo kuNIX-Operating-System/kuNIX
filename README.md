@@ -1,6 +1,13 @@
 # kuNIX
+
+#### Links
+[Official Site](http://kunix.rf.gd)
+[Compiled](https://www.mediafire.com/file/8avthllro8wv80u/kuNIX.iso/file)
+
 Official kuNIX kernel.
----
+
+------
+
 Hello, thank you for using kuNIX. kuNIX is open source and
 free to use. Developed by Scott and YoPoster, along with help
 from gOS and SharpOS for some code. kuNIX is based on the
